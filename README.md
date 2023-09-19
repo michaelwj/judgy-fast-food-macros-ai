@@ -6,7 +6,7 @@ This app was loosely based on Streamlit's "Build a chatbot" playground.
 
 ## Submission
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]()
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://judgy-fast-food-macros-ai.streamlit.app/)
 
 ## Prerequisite libraries
 Python 3.10 +
