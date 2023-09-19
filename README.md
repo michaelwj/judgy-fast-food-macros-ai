@@ -15,6 +15,7 @@ Python 3.10 +
 langchain==0.0.228
 openai==0.28.0
 streamlit==1.26.0
+tabulate==0.9.0
 ```
 or install from requirements.txt
 
